@@ -1,0 +1,7 @@
+{
+  "name": "CC",
+  "description": "Learing is Fun...   ...   ...",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
